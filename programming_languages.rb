@@ -9,5 +9,4 @@ def reformat_languages(languages)
           style: [:oo]
       }
   end
-  binding.pry
 end
